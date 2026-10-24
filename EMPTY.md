@@ -1,0 +1,1 @@
+Claude passes @snaft.in carousel slides to Metricool through this branch. Each carousel's slides sit here for the minute Metricool takes to copy them; then the branch is overwritten with this empty commit, so no slide stays in its history.
